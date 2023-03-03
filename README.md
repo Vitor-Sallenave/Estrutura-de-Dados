@@ -4,7 +4,3 @@ Material em **_Linguagem C_** com implementações e exercícios sobre **_Estrut
 *  _Listas Lineares_
 *  _Pilhas_ 
 *  _Filas_
-
-## Estruturas Futuras
-- [ ] Deque
-- [ ] Árvores
