@@ -1,2 +1,10 @@
 # Estrutura de Dados
-Material em linguagem C com implementações e exercícios sobre Estruturas de Dados
+Material em **_Linguagem C_** com implementações e exercícios sobre **_Estruturas de Dados_**.
+## Estruturas
+*  _Listas Lineares_
+*  _Pilhas_ 
+*  _Filas_
+
+## Estruturas Futuras
+- [ ] Deque
+- [ ] Árvores
